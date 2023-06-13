@@ -14,6 +14,7 @@ This project automate Dmoney user's API and Transaction API using Postman and Ne
 - git clone
 - npm i 
 - npm test 
+
 A report will generate in your project source root
 
 ## Scenarios :
