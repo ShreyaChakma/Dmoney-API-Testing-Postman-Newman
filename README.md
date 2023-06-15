@@ -37,7 +37,7 @@ A report will generate in your project source root
 https://documenter.getpostman.com/view/27579717/2s93sW8agF
 
 ## Bug Report :
-
+https://docs.google.com/spreadsheets/d/12jPqHtnT5ZlsHHYSXcKcIJVsseIQNSX-4nuJKI1cbwQ/edit?usp=sharing
 
 ## Newman Report :
 ![newmanDmoney_Report](https://github.com/ShreyaChakma/Dmoney-API-Testing-Postman-Newman/assets/53483111/e1650ef5-c82a-492f-b474-ebb27996b44c)
